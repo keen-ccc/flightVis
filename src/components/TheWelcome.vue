@@ -82,7 +82,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Support Vue</template>
 
     As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
+    us by this is
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
   </WelcomeItem>
 </template>
